@@ -1,5 +1,5 @@
 build:
-  id: 777777777777777777777
-  version: 30000.2.3
-  name: "Updated-GIT-Production-Build"
+  id: 2020202020
+  version: 20000.2.3
+  name: "PROD-GIT-Production-Build"
   type: "GIT Production Build"
